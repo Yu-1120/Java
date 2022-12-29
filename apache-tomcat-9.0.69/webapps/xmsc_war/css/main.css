@@ -1,0 +1,17 @@
+.main_info{
+	float: right;
+	padding-right: 50px;
+}
+.left_nav{
+	height: 100%;
+}
+.layui-body{
+	/* width: 100%; */
+	/* background-color: #0000FF; */
+}
+iframe{
+	border: none;
+}
+ul{
+	z-index: 999;
+}
